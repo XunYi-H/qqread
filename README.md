@@ -40,7 +40,7 @@
 
 **⚠️cookie获取方法：**
 
-1. 进入 https://m.q.qq.com/a/s/d3eacc70120b9a37e46bad408c0c4c2a  点“我的”，获取 `QQREADHEADERS` 
+1. 进入 https://m.q.qq.com/a/s/cf4956bb7bd1f49bf8ad6126443c34db  点“我的”，获取 `QQREADHEADERS` 
 
 2. 进一本书阅读一会儿，然后退出，获取 `QQREADTIMEHEADERS` 和 `QQREADTIMEURL` 
 
@@ -120,4 +120,3 @@ GitHub action自动运行，账号信息读取自 `Repo-Setting-Secrets`
 * [@ziye12](https://github.com/ziye12)
 
 * [@Zero-S1](https://github.com/Zero-S1)
-
